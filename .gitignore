@@ -1,0 +1,6 @@
+pyvenv.cfg
+lib
+Scripts
+dbsqlite3
+Include
+manage.py
